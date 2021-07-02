@@ -1,8 +1,8 @@
 "use strict";
 exports.__esModule = true;
 var products_1 = require("./products");
-var productName = "beanie";
-var shippingAddress = "Summer Street, Neew York";
+var productName = "hoodie";
+var shippingAddress = "Summer Street, New York";
 var shipping = 5;
 var taxPercent = 0.05;
 var product = products_1["default"].forEach(function (product) {
